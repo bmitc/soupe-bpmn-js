@@ -11,7 +11,7 @@ The whole setup can be automated through setup scripts[setup.sh](https://github.
 Execute `grunt` on project. Things should be fine.
 
 ## Attention
-Need to change line[16] in /coding/bmitc/bpmn/bpmn-js-properties-panel/node_modules/scroll-tabs/index.js
+Need to change line[16] in bpmn-js-properties-panel/node_modules/scroll-tabs/index.js
 ```
 var EventEmitter = require('events');
 ```
