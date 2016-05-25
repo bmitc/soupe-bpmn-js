@@ -1,4 +1,4 @@
-Customized libaray of [bpmn-js](http://github.com/bpmn-io/bpmn-js) with [Properties Panel](https://github.com/bpmn-io/bpmn-js-properties-panel) for jBPM
+Customized library of [bpmn-js](http://github.com/bpmn-io/bpmn-js) with [Properties Panel](https://github.com/bpmn-io/bpmn-js-properties-panel) for jBPM
 
 ## Build
 
