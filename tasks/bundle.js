@@ -90,7 +90,6 @@ module.exports = function(grunt) {
     var browserifyOptions = {
       standalone: 'SoupeBpmnJS',
       debug: true,
-      builtins: false,
       insertGlobalVars: {
         process: function () {
             return 'undefined';
