@@ -49,6 +49,7 @@ function extractSourceMap(content) {
 function uglify(bundle, preamble) {
   return UglifyJS.minify(bundle.code, {
     fromString: true,
+    mangle: false,
     output: {
       preamble: preamble
     }
