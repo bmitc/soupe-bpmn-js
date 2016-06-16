@@ -28,6 +28,11 @@ module.exports = function (grunt) {
         name: 'bpmn-modeler',
         src: '<%= config.sources %>/Modeler.js',
         dest: '<%= config.dist %>'
+      },
+      viewer: {
+        name: 'bpmn-viewer',
+        src: '<%= config.sources %>/Viewer.js',
+        dest: '<%= config.dist %>'
       }
     },
 
